@@ -14,8 +14,7 @@
         android:layout_weight="1"
         android:ems="10"
         android:inputType="text"
-        android:text= "https://upload.wikimedia.org/wikipedia/commons/e/ed/016vallesmarineris_r
-educed0.5.jpg"  />
+        android:text= "https://upload.wikimedia.org/wikipedia/commons/e/ed/016vallesmarineris_reduced0.5.jpg"  />
 
     <Button
         android:id="@+id/btnDownload"
@@ -32,4 +31,4 @@ educed0.5.jpg"  />
         android:layout_weight="1"
         tools:srcCompat="@tools:sample/avatars" />
 
-</LinearLayoutandroidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
